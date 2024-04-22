@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabsAndSwipeExample</string>
+
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+
+    <string name="first_tab_title">Красный букет</string>
+    <string name="second_tab_title">Желтый букет</string>
+    <string name="third_tab_title">Фиолетовый букет</string>
+</resources>
